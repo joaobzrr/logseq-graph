@@ -76,18 +76,18 @@
 	  
 	  #definição
 	- Propriedades do valor absoluto
-		- O valor absoluto de um número é sempre positivo ou zero. #propriedade
-			- $\lvert a \rvert \geq 0$
+		- $\lvert a \rvert \geq 0$ #propriedade
 			- $\lvert -3 \rvert = 3 \geq 0$
-		- Um número e o seu negativo tem o mesmo valor absoluto. #propriedade
-			- $\lvert a \rvert = \lvert -a \rvert$
+			- O valor absoluto de um número é sempre positivo ou zero.
+		- $\lvert a \rvert = \lvert -a \rvert$ #propriedade
 			- $\lvert 5 \rvert = \lvert -5 \rvert$
-		- O valor absoluto de um produto é o produto dos valores absolutos. #propriedade
-			- $\lvert ab \rvert = \lvert a \rvert \lvert b \rvert$
+			- Um número e o seu negativo tem o mesmo valor absoluto.
+		- $\lvert ab \rvert = \lvert a \rvert \lvert b \rvert$ #propriedade
 			- $\lvert -2 \cdot 5 \rvert = \lvert -2 \rvert \lvert 5 \rvert$
-		- O valor absoluto de um quociente é o quociente dos valores absolutos. #propriedade
-			- $\Big\lvert \dfrac{a}{b} \Big\rvert = \dfrac{\lvert a \rvert}{\lvert b \rvert}$
+			- O valor absoluto de um produto é o produto dos valores absolutos.
+		- $\Big\lvert \dfrac{a}{b} \Big\rvert = \dfrac{\lvert a \rvert}{\lvert b \rvert}$ #propriedade
 			- $\Big\lvert \dfrac{12}{-3} \Big\rvert = \dfrac{\lvert 12 \rvert}{\lvert -3 \rvert}$
-		- Desigualdade triangular. #propriedade
-			- $\lvert a + b \rvert \leq \lvert a \rvert + \lvert b \rvert$
+			- O valor absoluto de um quociente é o quociente dos valores absolutos.
+		- $\lvert a + b \rvert \leq \lvert a \rvert + \lvert b \rvert$ #propriedade
 			- $\lvert -3 + 5 \rvert \leq \lvert -3 \rvert + \lvert 5\rvert$
+			- Desigualdade triangular.

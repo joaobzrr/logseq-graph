@@ -1,0 +1,58 @@
+- Um **polinômio** na variável $x$ é uma expressão da forma
+  
+  $$
+  a_{n}x^{n} + a_{n - 1}x^{n - 1} + \text{... } + a_1x + a_0 
+  $$
+  
+  onde $a_0$, $a_1$, ..., $a_n$ são números reais, e $n$ é um inteiro não negativo. Se $a_n \neq 0$, então o polinômio tem **grau n**. Os monômios $a_kx^k$ que constituem o polinômio são chamados de **termos** do polinômio. #definição
+- Somando e subtraindo polinômios #seção
+- Multiplicando expressões algébricas #seção
+- Fórmulas especiais de produtos #seção
+	- $(A + B)(A - B) = A^2 - B^2$ #propriedade
+		- Produto da soma pela diferença de dois termos.
+	- $(A + B)^2 = A^2 + 2AB + B^2$ #propriedade
+		- Quadrado da soma.
+	- $(A - B)^2 = A^2 - 2AB + B^2$ #propriedade
+		- Quadrado da diferença.
+	- $(A + B)^3 = A^3 + 3A^2B + 3AB^2 + B^3$ #propriedade
+		- Cubo da soma.
+	- $(A - B)^3 = A^3 - 3A^2B + 3AB^2 - B^3$ #propriedade
+		- Cubo da diferença.
+- Fatorando fatores comuns #seção
+- Fatorando trinômios #seção
+	- Trinômios da forma $x^2 + bx + c$
+		- Para fatorar um trinômio da forma $x² + bx + c$, observamos que:
+		  
+		  $$
+		  (x + r)(x + s) = x^2 + (r + s)x + rs
+		  $$
+		  
+		  Portanto, devemos encontrar dois números $r$ e $s$ tal que $r + s = b$ e $rs = c$.
+	- Trinômios da forma $ax^2 + bx + c$
+		- Para fatorar trinômios da forma $ax^2 + b x+ c$ com $a \neq 1$, devemos procurar por fatores $px + r$ e $qx + s$:
+		  
+		  $$
+		  ax^2 + bx + c = (px + r)(qx + s) = pqx^2 + (ps + qr)x + rs
+		  $$
+		  
+		  Portanto, devemos encontrar números $p$, $q$, $r$, e $s$ tal que $pq = a$ $rs = c$ e $ps + qr = b$.
+- Fórmulas especiais de fatoração #seção
+	- Fórmulas especiais de fatoração
+		- $A² - B² = (A + B)(A - B)$ #propriedade
+			- Diferença dos quadrados.
+		- $A^2 + 2AB + B^2 = (A + B)^2$ #propriedade
+			- Quadrado perfeito.
+		- $A^2 - 2AB + B^2 = (A - B)^2$ #propriedade
+			- Quadrado perfeito.
+		- $A^3 - B^3 = (A - B)(A^2 + AB + B^2)$ #propriedade
+			- Diferença dos cubos.
+		- $A^3 + B^3 = (A + B)(A^2 - AB + B^2)$ #propriedade
+			- Soma dos cubos.
+	- Um trinômio é um quadrado perfeito se é da forma
+	  
+	  $$
+	  A^2 + 2AB + B^2 \qquad ou \qquad A² - 2AB + B^2
+	  $$
+	  
+	  Portanto um trinômio é um quadrado perfeito se o termo do meio é igual ao dobro do produto das raízes quadradas dos termos exteriores. #definição
+- Fatorando por agrupamento de termos #seção
