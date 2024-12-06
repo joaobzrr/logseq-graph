@@ -35,9 +35,7 @@
 	  \sqrt[n]{a} = b \qquad \text{significa} \qquad b^n = a
 	  $$
 	  
-	  Se $n$ é par, então necessariamente $a \geq 0$ e $b \geq 0$.
-	  
-	  #definição
+	  Se $n$ é par, então necessariamente $a \geq 0$ e $b \geq 0$. #definição
 	- Propriedades dos radicais
 		- $\sqrt[n]{ab} = \sqrt[n]{a} \sqrt[n]{b}$ #propriedade
 			- $\sqrt[3]{-8 \cdot 27} = \sqrt[3]{-8} \sqrt[3]{27} = (-2)(3) = -6$

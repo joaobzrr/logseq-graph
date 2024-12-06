@@ -93,10 +93,8 @@
 		  logseq.order-list-type:: number
 			- $\dfrac{2x}{1 - x} \geqslant 0$
 			  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
-				  #+BEGIN_CAUTION
-				  Normalmente poderiamos simplesmente multiplicar os dois lados por $1 - x$, mas não podemos fazer isso com uma inequação porque não sabemos se $1 - x$ é positivo ou negativo. Logo, também não é possível saber se devemos ou não inverter o sinal da inequação.
-				  #+END_CAUTION
+				- Normalmente poderiamos simplesmente multiplicar os dois lados por $1 - x$, mas não podemos fazer isso com uma inequação porque não sabemos se $1 - x$ é positivo ou negativo. Logo, também não é possível saber se devemos ou não inverter o sinal da inequação. #atenção
+				  logseq.order-list-type:: number
 		- Determinar os intervalos.
 		  logseq.order-list-type:: number
 			- Os fatores $2x$ e $1 - x$ são iguais a zero quando $x$ e igual a $0$ e $1$, respectivamente.
@@ -155,4 +153,4 @@
 		  \end{align*}
 		  $$
 		- O conjunto solução é $\{ x \mid x \leqslant -2 \enspace \text{ou} x \geqslant \tfrac{2}{3} \} = (-\infty, 2] \cup [\tfrac{2}{3}, \infty)$.
-	- Modelando com inequações #seção
+- Modelando com inequações #seção

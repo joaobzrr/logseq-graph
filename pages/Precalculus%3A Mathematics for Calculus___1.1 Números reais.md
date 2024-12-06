@@ -1,5 +1,4 @@
 - Números reais #seção
-  collapsed:: true
 	- Convertendo uma dízima periódica em uma razão entre dois inteiros
 		- Uma dízima periódica, como $x = 3.5474747 \text{...}$ é um número racional. Para convertê-la em uma razão entre dois inteiros, escrevemos:
 		  
@@ -16,7 +15,6 @@
 		  
 		  Assim, $x = 3512$ (A ideia é multiplicar $x$ por potências apropriadas de 10 e depois subtrair para eliminar a parte periódica.)
 - Propriedades dos números reais #seção
-  collapsed:: true
 	- $a + b = b + a$ #propriedade
 		- $7 + 3 = 3 + 7$
 		- Propriedade comutativa da adição. Quando somamos dois números, a ordem não importa.
@@ -34,7 +32,6 @@
 		- Propriedade distributiva da multiplicação. Quando multiplicamos um número pela soma de dois números, obtemos o mesmo resultado que obteríamos se multiplicássemos o número por cada um dos termos separadamente e, em seguida, somássemos os resultados.
 - Adição e subtração #seção
 - Multiplicação e divisão #seção
-  collapsed:: true
 	- Menor denominador comum
 		- Quando somamos frações com denominadores diferentes, primeiro as reescrevemos de forma que tenham o menor denominador comum possível (geralmente menor que o produto dos denominadores).
 		- Por exemplo, considere a seguinte expressão:
@@ -63,7 +60,6 @@
 - A reta real #seção
 - Conjuntos e intervalos #seção
 - Valor absoluto e distância #seção
-  collapsed:: true
 	- Se $a$ é um número real, então o *valor absoluto* de $a$ é
 	  
 	  $$
