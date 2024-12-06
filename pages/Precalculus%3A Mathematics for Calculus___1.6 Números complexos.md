@@ -1,0 +1,46 @@
+- Um **número complexo** é uma expressão da forma
+  
+  $$
+  a + bi
+  $$
+  
+  onde $a$ e $b$ são números reais e $i^2 = -1$. A **parte real** desse número complexo é $a$ e a **parte imaginária** é $b$. Dois números complexos são iguais se, e somente se, suas partes reais forem iguais e suas partes imaginárias forem iguais. #definição
+- Operações aritméticas em números complexos #seção
+	- Soma, diferença e produto de números complexos
+		- $(a + bi) + (c + di) = (a + c) + (b + d)i$ #propriedade
+			- Para somar números complexos, some as partes reais e as partes imaginarias.
+		- $(a + bi) - (c + di) = (a - c) + (b - d)$ #propriedade
+			- Para subtrair números complexos, subtraia as partes reais e as partes imaginárias.
+		- $(a + bi) \cdot (c + di) = (ac - bd) + (ad + bc)i$ #propriedade
+			- Multiplique números complexos como se fossem binômios considerando que $i^2 = -1$.
+	- Divisão de números complexos
+		- Para simplificar o quociente $\dfrac{a + bi}{c + di}$, multiplique o numerador e o denominador pelo conjugado complexo do denominador.
+		  
+		  $$
+		  \dfrac{a + bi}{c + di} = \left(\dfrac{a + bi}{c + di}\right) \left(\dfrac{c - di}{c - di}\right) = \dfrac{(ac + bd) + (bc - ad)i}{c^2 + d^2}
+		  $$
+		  
+		  #propriedade
+- Raízes quadradas de números negativos #seção
+	- Assim como todo número real positivo $r$ tem duas raízes quadradas ($\sqrt{r}$ e $-\sqrt{r}$), todo número negativo tem duas raízes quadradas. If $-r$ e um número negativo, então suas raízes quadradas são $\pm \sqrt{r}i$, pois $(\sqrt{r}i)^2 = ri^2 = -r$, e $(-\sqrt{r}i)^2 = r(-1)^2 \, i^2 = -r$.
+	- Apesar que $\sqrt{a} \cdot \sqrt{b} = \sqrt{ab}$ quando $a$ e $b$ são positivos, isso *não* é verdade quando ambos são negativos. Por exemplo,
+	  
+	  $$
+	  \sqrt{-2} \cdot \sqrt{-3} = \sqrt{2}i \cdot \sqrt{3}i = \sqrt{6}i^2 = -\sqrt{6}
+	  $$
+	  
+	  mas
+	  
+	  $$
+	  \sqrt{(-2)(-3)} = \sqrt{6}
+	  $$
+	  
+	  logo
+	  
+	  $$
+	  \sqrt{-2} \cdot \sqrt{-3} \neq \sqrt{(-2)(-3)}
+	  $$
+	  
+	  Ao multiplicar raízes de números negativos, primeiro as expresse na forma $\sqrt{r}i$ (onde $r > 0$) para evitar erros desse tipo. #atenção
+- Raízes complexas de equações quadráticas #seção
+	- Se uma equação quadrática com coeficientes reais tem raízes complexas, então essas raízes são conjugados complexos uma da outra. Portanto, se $a + bi$ é uma raiz, então $a - bi$ também e uma raiz.
