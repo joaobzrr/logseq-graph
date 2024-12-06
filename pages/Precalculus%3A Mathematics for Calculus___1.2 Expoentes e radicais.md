@@ -39,7 +39,7 @@
 	- Propriedades dos radicais
 		- #propriedade $\sqrt[n]{ab} = \sqrt[n]{a} \sqrt[n]{b}$
 			- $\sqrt[3]{-8 \cdot 27} = \sqrt[3]{-8} \sqrt[3]{27} = (-2)(3) = -6$
-		- #proprieade $\sqrt[n]{\dfrac{a}{b}} = \dfrac{\sqrt[n]{a}}{\sqrt[n]{b}}$
+		- #propriedade $\sqrt[n]{\dfrac{a}{b}} = \dfrac{\sqrt[n]{a}}{\sqrt[n]{b}}$
 			- $\sqrt[4]{\dfrac{16}{81}} = \dfrac{\sqrt[4]{16}}{\sqrt[4]{81}} = \dfrac{2}{3}$
 		- #propriedade $\sqrt[m]{\sqrt[n]{a}} = \sqrt[mn]{a}$
 			- $\sqrt{\sqrt[3]{729}} = \sqrt[6]{729} = 3$
