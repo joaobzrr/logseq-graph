@@ -1,1 +1,10 @@
--
+- [[1. Fundamentos]]
+	- DONE [[1.1 Números reais]]
+	- DONE [[1.2 Expoentes e radicais]]
+	- DONE [[1.3 Expressões algébricas]]
+	- DONE [[1.4 Expressões racionais]]
+	- DONE [[1.5 Equações]]
+	- DONE [[1.6 Números complexos]]
+	- DONE [[1.7 Modelando com equações]]
+	- DONE [[1.8 Inequações]]
+	- [[1.9 Plano cartesiano; Gráficos de quações; Círculos]]
