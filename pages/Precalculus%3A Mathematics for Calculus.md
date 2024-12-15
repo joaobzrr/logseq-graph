@@ -7,4 +7,5 @@
 	- DONE [[1.6 Números complexos]]
 	- DONE [[1.7 Modelando com equações]]
 	- DONE [[1.8 Inequações]]
-	- TODO [[1.9 Plano cartesiano; Gráficos de equações; Círculos]]
+	- DONE [[1.9 Plano cartesiano; Gráficos de equações; Círculos]]
+	- TODO [[1.10 Retas]]
