@@ -8,4 +8,4 @@
 	- DONE [[1.7 Modelando com equações]]
 	- DONE [[1.8 Inequações]]
 	- DONE [[1.9 Plano cartesiano; Gráficos de equações; Círculos]]
-	- TODO [[1.10 Retas]]
+	- DONE [[1.10 Retas]]
