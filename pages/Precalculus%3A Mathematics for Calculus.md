@@ -9,3 +9,5 @@
 	- DONE [[1.8 Inequações]]
 	- DONE [[1.9 Plano cartesiano; Gráficos de equações; Círculos]]
 	- DONE [[1.10 Retas]]
+	- TODO [[1.11 Resolvendo equações e inequações graficamente]]
+	- TODO [[1.12 Modelando variação]]
