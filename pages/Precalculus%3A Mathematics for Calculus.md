@@ -10,4 +10,4 @@
 	- DONE [[1.9 Plano cartesiano; Gráficos de equações; Círculos]]
 	- DONE [[1.10 Retas]]
 	- DONE [[1.11 Resolvendo equações e inequações graficamente]]
-	- TODO [[1.12 Modelando variação]]
+	- DONE [[1.12 Modelando variação]]
