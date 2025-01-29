@@ -1,4 +1,4 @@
-- [[1. Fundamentos]]
+- DONE [[1. Fundamentos]]
 	- DONE [[1.1 Números reais]]
 	- DONE [[1.2 Expoentes e radicais]]
 	- DONE [[1.3 Expressões algébricas]]
@@ -11,3 +11,5 @@
 	- DONE [[1.10 Retas]]
 	- DONE [[1.11 Resolvendo equações e inequações graficamente]]
 	- DONE [[1.12 Modelando variação]]
+- TODO [[2. Funções]]
+	- TODO [[2.1 Funções]]
