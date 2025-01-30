@@ -12,4 +12,5 @@
 	- DONE [[1.11 Resolvendo equações e inequações graficamente]]
 	- DONE [[1.12 Modelando variação]]
 - TODO [[2. Funções]]
-	- TODO [[2.1 Funções]]
+	- DONE [[2.1 Funções]]
+	- TODO [[2.2 Gráficos de funções]]
