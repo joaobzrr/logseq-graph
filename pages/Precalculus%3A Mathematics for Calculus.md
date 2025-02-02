@@ -14,3 +14,4 @@
 - TODO [[2. Funções]]
 	- DONE [[2.1 Funções]]
 	- TODO [[2.2 Gráficos de funções]]
+	- TODO [[2.3 Extraindo informações do gráfico de uma função]]
