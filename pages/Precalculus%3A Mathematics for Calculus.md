@@ -13,5 +13,5 @@
 	- DONE [[1.12 Modelando variação]]
 - TODO [[2. Funções]]
 	- DONE [[2.1 Funções]]
-	- TODO [[2.2 Gráficos de funções]]
+	- DONE [[2.2 Gráficos de funções]]
 	- TODO [[2.3 Extraindo informações do gráfico de uma função]]
