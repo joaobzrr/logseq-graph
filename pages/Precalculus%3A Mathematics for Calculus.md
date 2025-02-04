@@ -14,4 +14,5 @@
 - TODO [[2. Funções]]
 	- DONE [[2.1 Funções]]
 	- DONE [[2.2 Gráficos de funções]]
-	- TODO [[2.3 Extraindo informações do gráfico de uma função]]
+	- DONE [[2.3 Extraindo informações do gráfico de uma função]]
+	- TODO [[2.4 Taxa média de variação de uma função]]
