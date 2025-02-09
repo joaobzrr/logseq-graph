@@ -18,3 +18,4 @@
 	- DONE [[2.4 Taxa média de variação de uma função]]
 	- DONE [[2.5 Funções e modelos lineares]]
 	- DONE [[2.6 Transformações de funções]]
+	- TODO [[2.7 Combinando funções]]
