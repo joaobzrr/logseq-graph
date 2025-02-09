@@ -1,3 +1,54 @@
 .done {
   text-decoration: none;
 }
+
+/* Styles for Auto-Hiding and Revealing on Mouse Hover for Block Properties */
+/* Now the properties' tags can be clicked too */
+body[data-sc-props="hover-props"] .block-properties:not(.page-properties) {
+      display: none;
+      position: absolute;
+      transform: translate(0%, -10%);
+      /* Move the properties horizontally aligned with the ".block-content-inner" DIV Left Margin */
+      border-radius: 5px;
+      padding: 10px;
+      border: 1px solid var(--ls-secondary-border-color);
+      /* Add custom border color from pre-defied variables */
+      background: var(--ls-primary-background-color);
+}
+
+/* Show block properties on hovering .block-content-inner */
+body[data-sc-props="hover-props"] .block-main-container:has(.block-properties:not(.page-properties)):hover .block-properties {
+/* body[data-sc-props="hover-props"] .block-content-inner:hover~.block-properties { */
+      display: block;
+      opacity: 1;
+      z-index: 999;
+}
+
+/* Keep Showing block properties on hovering .block-properties */
+body[data-sc-props="hover-props"] .block-properties:not(.page-properties):hover {
+      display: block;
+      opacity: 1;
+      z-index: 999;
+}
+
+body[data-sc-props="hover-props"] .block-content-inner:has(+.block-properties:not(.page-properties))::after {
+      /* padding-left: 10px; */
+      /* color: hsl(var(--ct-accent-color)); */
+      /* font-family: var(--ls-font-family-code); */
+      /* font-weight: bold; */
+      content: "·";
+      color: var(--ls-primary-text-color);
+}
+
+body[data-sc-props="with-props"] div#main-content-container:hover .block-properties:not(.page-properties) {
+      text-decoration: underline wavy;
+}
+
+body[data-sc-props="without-props"] .block-properties:not(.page-properties) {
+      display: none;
+}
+
+body[data-sc-props="without-props"] .block-content-inner:has(+.block-properties:not(.page-properties))::after {
+      content: "·";
+      color: var(--ls-primary-text-color);
+}
